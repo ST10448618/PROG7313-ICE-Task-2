@@ -1,4 +1,4 @@
-package com.example.betwiseapp
+package com.example.betwise
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

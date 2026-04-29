@@ -1,4 +1,4 @@
-package com.example.betwiseapp
+package com.example.betwise
 
 import org.junit.Test
 

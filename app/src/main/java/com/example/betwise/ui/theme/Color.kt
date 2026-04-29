@@ -1,4 +1,4 @@
-package com.example.betwiseapp.ui.theme
+package com.example.betwise.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
